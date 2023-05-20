@@ -1,0 +1,4 @@
+line-bot-sdk
+openai
+google-cloud-storage
+google-cloud-firestore
